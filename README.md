@@ -36,4 +36,5 @@
         <button onclick="window.alert('Que bom vey, então aproveite seu dia.')">Bem</button>
         <button onclick="window.location.href='http://www.adoteumgatinho.org.br/11-melhores-gifs-de-gatinhos'">Mal</button>
     </div>
+</body>
 </html>
